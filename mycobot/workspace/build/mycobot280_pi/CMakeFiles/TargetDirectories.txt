@@ -1,0 +1,9 @@
+/home/tejas/mycobot/workspace/build/mycobot280_pi/CMakeFiles/uninstall.dir
+/home/tejas/mycobot/workspace/build/mycobot280_pi/CMakeFiles/mycobot280_pi_uninstall.dir
+/home/tejas/mycobot/workspace/build/mycobot280_pi/CMakeFiles/test.dir
+/home/tejas/mycobot/workspace/build/mycobot280_pi/CMakeFiles/edit_cache.dir
+/home/tejas/mycobot/workspace/build/mycobot280_pi/CMakeFiles/rebuild_cache.dir
+/home/tejas/mycobot/workspace/build/mycobot280_pi/CMakeFiles/list_install_components.dir
+/home/tejas/mycobot/workspace/build/mycobot280_pi/CMakeFiles/install.dir
+/home/tejas/mycobot/workspace/build/mycobot280_pi/CMakeFiles/install/local.dir
+/home/tejas/mycobot/workspace/build/mycobot280_pi/CMakeFiles/install/strip.dir

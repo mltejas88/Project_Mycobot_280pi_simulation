@@ -1,0 +1,4 @@
+source;share/mycobot280_pi/local_setup.bash
+source;share/mycobot280_pi/local_setup.dsv
+source;share/mycobot280_pi/local_setup.sh
+source;share/mycobot280_pi/local_setup.zsh

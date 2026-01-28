@@ -1,0 +1,50 @@
+[0.011s] Invoking command in '/home/tejas/mycobot/workspace/build/mycobot280_pi': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/tejas/mycobot/workspace/build/mycobot280_pi -- -j16 -l16
+[0.057s] Invoked command in '/home/tejas/mycobot/workspace/build/mycobot280_pi' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/tejas/mycobot/workspace/build/mycobot280_pi -- -j16 -l16
+[0.065s] Invoking command in '/home/tejas/mycobot/workspace/build/mycobot280_pi': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/tejas/mycobot/workspace/build/mycobot280_pi
+[0.074s] -- Install configuration: ""
+[0.074s] -- Up-to-date: /home/tejas/mycobot/workspace/install/mycobot280_pi/share/mycobot280_pi//launch
+[0.074s] -- Installing: /home/tejas/mycobot/workspace/install/mycobot280_pi/share/mycobot280_pi//launch/mycobot280_pi.launch.py
+[0.074s] -- Up-to-date: /home/tejas/mycobot/workspace/install/mycobot280_pi/share/mycobot280_pi//launch/mycobot_280_gazebo.launch.py
+[0.074s] -- Up-to-date: /home/tejas/mycobot/workspace/install/mycobot280_pi/share/mycobot280_pi//launch/gz_clock_bridge.launch.py
+[0.074s] -- Up-to-date: /home/tejas/mycobot/workspace/install/mycobot280_pi/share/mycobot280_pi//launch/mycobot_280_world.launch.py
+[0.074s] -- Installing: /home/tejas/mycobot/workspace/install/mycobot280_pi/share/mycobot280_pi//launch/mycobot.launch.py
+[0.074s] -- Up-to-date: /home/tejas/mycobot/workspace/install/mycobot280_pi/share/mycobot280_pi//urdf
+[0.074s] -- Up-to-date: /home/tejas/mycobot/workspace/install/mycobot280_pi/share/mycobot280_pi//urdf/mycobot_280_gazebo.urdf
+[0.074s] -- Up-to-date: /home/tejas/mycobot/workspace/install/mycobot280_pi/share/mycobot280_pi//urdf/meshes
+[0.074s] -- Up-to-date: /home/tejas/mycobot/workspace/install/mycobot280_pi/share/mycobot280_pi//urdf/meshes/joint3.dae
+[0.074s] -- Up-to-date: /home/tejas/mycobot/workspace/install/mycobot280_pi/share/mycobot280_pi//urdf/meshes/G_base.dae
+[0.074s] -- Up-to-date: /home/tejas/mycobot/workspace/install/mycobot280_pi/share/mycobot280_pi//urdf/meshes/joint2.png
+[0.074s] -- Up-to-date: /home/tejas/mycobot/workspace/install/mycobot280_pi/share/mycobot280_pi//urdf/meshes/joint4.png
+[0.075s] -- Up-to-date: /home/tejas/mycobot/workspace/install/mycobot280_pi/share/mycobot280_pi//urdf/meshes/joint6.png
+[0.075s] -- Up-to-date: /home/tejas/mycobot/workspace/install/mycobot280_pi/share/mycobot280_pi//urdf/meshes/joint3.png
+[0.075s] -- Up-to-date: /home/tejas/mycobot/workspace/install/mycobot280_pi/share/mycobot280_pi//urdf/meshes/joint4.dae
+[0.075s] -- Up-to-date: /home/tejas/mycobot/workspace/install/mycobot280_pi/share/mycobot280_pi//urdf/meshes/joint2.dae
+[0.075s] -- Up-to-date: /home/tejas/mycobot/workspace/install/mycobot280_pi/share/mycobot280_pi//urdf/meshes/joint7.png
+[0.075s] -- Up-to-date: /home/tejas/mycobot/workspace/install/mycobot280_pi/share/mycobot280_pi//urdf/meshes/joint1.stl
+[0.075s] -- Up-to-date: /home/tejas/mycobot/workspace/install/mycobot280_pi/share/mycobot280_pi//urdf/meshes/joint1.png
+[0.075s] -- Up-to-date: /home/tejas/mycobot/workspace/install/mycobot280_pi/share/mycobot280_pi//urdf/meshes/joint5.png
+[0.075s] -- Up-to-date: /home/tejas/mycobot/workspace/install/mycobot280_pi/share/mycobot280_pi//urdf/meshes/joint5.stl
+[0.075s] -- Up-to-date: /home/tejas/mycobot/workspace/install/mycobot280_pi/share/mycobot280_pi//urdf/meshes/joint6.dae
+[0.075s] -- Up-to-date: /home/tejas/mycobot/workspace/install/mycobot280_pi/share/mycobot280_pi//urdf/meshes/joint7.dae
+[0.075s] -- Up-to-date: /home/tejas/mycobot/workspace/install/mycobot280_pi/share/mycobot280_pi//worlds
+[0.075s] -- Up-to-date: /home/tejas/mycobot/workspace/install/mycobot280_pi/share/mycobot280_pi//worlds/default.world
+[0.075s] -- Up-to-date: /home/tejas/mycobot/workspace/install/mycobot280_pi/share/mycobot280_pi//worlds/empty.world
+[0.075s] -- Up-to-date: /home/tejas/mycobot/workspace/install/mycobot280_pi/lib/mycobot280_pi/move_mycobot.py
+[0.075s] -- Up-to-date: /home/tejas/mycobot/workspace/install/mycobot280_pi/lib/mycobot280_pi/log_joint_data.py
+[0.075s] -- Up-to-date: /home/tejas/mycobot/workspace/install/mycobot280_pi/lib/mycobot280_pi/python_node.py
+[0.075s] -- Up-to-date: /home/tejas/mycobot/workspace/install/mycobot280_pi/share/ament_index/resource_index/package_run_dependencies/mycobot280_pi
+[0.075s] -- Up-to-date: /home/tejas/mycobot/workspace/install/mycobot280_pi/share/ament_index/resource_index/parent_prefix_path/mycobot280_pi
+[0.075s] -- Up-to-date: /home/tejas/mycobot/workspace/install/mycobot280_pi/share/mycobot280_pi/environment/ament_prefix_path.sh
+[0.075s] -- Up-to-date: /home/tejas/mycobot/workspace/install/mycobot280_pi/share/mycobot280_pi/environment/ament_prefix_path.dsv
+[0.075s] -- Up-to-date: /home/tejas/mycobot/workspace/install/mycobot280_pi/share/mycobot280_pi/environment/path.sh
+[0.075s] -- Up-to-date: /home/tejas/mycobot/workspace/install/mycobot280_pi/share/mycobot280_pi/environment/path.dsv
+[0.075s] -- Up-to-date: /home/tejas/mycobot/workspace/install/mycobot280_pi/share/mycobot280_pi/local_setup.bash
+[0.075s] -- Up-to-date: /home/tejas/mycobot/workspace/install/mycobot280_pi/share/mycobot280_pi/local_setup.sh
+[0.075s] -- Up-to-date: /home/tejas/mycobot/workspace/install/mycobot280_pi/share/mycobot280_pi/local_setup.zsh
+[0.075s] -- Up-to-date: /home/tejas/mycobot/workspace/install/mycobot280_pi/share/mycobot280_pi/local_setup.dsv
+[0.075s] -- Installing: /home/tejas/mycobot/workspace/install/mycobot280_pi/share/mycobot280_pi/package.dsv
+[0.075s] -- Up-to-date: /home/tejas/mycobot/workspace/install/mycobot280_pi/share/ament_index/resource_index/packages/mycobot280_pi
+[0.076s] -- Up-to-date: /home/tejas/mycobot/workspace/install/mycobot280_pi/share/mycobot280_pi/cmake/mycobot280_piConfig.cmake
+[0.076s] -- Up-to-date: /home/tejas/mycobot/workspace/install/mycobot280_pi/share/mycobot280_pi/cmake/mycobot280_piConfig-version.cmake
+[0.076s] -- Up-to-date: /home/tejas/mycobot/workspace/install/mycobot280_pi/share/mycobot280_pi/package.xml
+[0.077s] Invoked command in '/home/tejas/mycobot/workspace/build/mycobot280_pi' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/tejas/mycobot/workspace/build/mycobot280_pi
